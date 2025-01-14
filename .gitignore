@@ -1,4 +1,5 @@
 __pycache__
 .env
 .learn
-/workspaces/machine-learning-python-template/data/processed
+/machine-learning-python-template/data/processed/.csv
+*.csv
